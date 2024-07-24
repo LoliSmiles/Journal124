@@ -1,6 +1,6 @@
 # Journal124
 
-**Question #6 Creating a repository **
+**Question #6 Creating a repository**
 
 ## Answering questions on dataset
 
